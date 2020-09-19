@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://congquyen.ghost.io",
-    "contentApiKey": "971ec733739c85738b8c3b36e5"
+    "apiUrl": "https://thepresent.xxx",
+    "contentApiKey": "1e0af8d63379ba1a061bb43d91"
   },
   "production": {
-    "apiUrl": "https://congquyen.ghost.io",
-    "contentApiKey": "971ec733739c85738b8c3b36e5"
+    "apiUrl": "https://thepresent.xxx",
+    "contentApiKey": "1e0af8d63379ba1a061bb43d91"
   }
 }
